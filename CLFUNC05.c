@@ -1,7 +1,6 @@
 
 
-
-\\Update the function given in the IDE to output the following to the IDE by printing from inside the function.
+// Update the function given in the IDE to output the following to the IDE by printing from inside the function.
 
 
 
